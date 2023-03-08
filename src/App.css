@@ -79,6 +79,10 @@ img {
   border-top-right-radius: 6px;
 }
 
+.header .header-section .card .content h3 {
+  height: 40px;
+}
+
 .header .header-section .card .content {
   margin: 20px
 }

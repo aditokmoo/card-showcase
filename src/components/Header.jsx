@@ -1,5 +1,4 @@
-import mountainImage_himalaye from './img/mountain1.jpg'
-import mountainImage1 from './img/image-1.jpeg'
+import mountainImage1 from './img/image-1.jpg'
 import mountainImage2 from './img/image-2.jpeg'
 import mountainImage3 from './img/image-3.jpeg'
 import mountainImage4 from './img/image-4.jpeg'
@@ -15,10 +14,10 @@ export const Header = () => {
                 <div className="header-section">
                     <div className="card">
                         <div className="image">
-                            <img src={mountainImage_himalaye} alt="" />
+                            <img src={mountainImage1} alt="Random Image 1" />
                         </div>
                         <div className="content">
-                            <h3>Himilaye</h3>
+                            <h3>Mount Everest</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias iusto ullam repudiandae dolores.</p>
                             <span>1</span>
                         </div>
@@ -26,10 +25,10 @@ export const Header = () => {
 
                     <div className="card">
                         <div className="image">
-                            <img src={mountainImage1} alt="" />
+                            <img src={mountainImage2} alt="Random Image 2" />
                         </div>
                         <div className="content">
-                            <h3>Himilaye</h3>
+                            <h3>Mount Kilimanjaro</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias iusto ullam repudiandae dolores.</p>
                             <span>2</span>
                         </div>
@@ -37,10 +36,10 @@ export const Header = () => {
 
                     <div className="card">
                         <div className="image">
-                            <img src={mountainImage2} alt="" />
+                            <img src={mountainImage3} alt="Random Image 3" />
                         </div>
                         <div className="content">
-                            <h3>Himilaye</h3>
+                            <h3>Mount Fuji</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias iusto ullam repudiandae dolores.</p>
                             <span>3</span>
                         </div>
@@ -48,10 +47,10 @@ export const Header = () => {
 
                     <div className="card">
                         <div className="image">
-                            <img src={mountainImage3} alt="" />
+                            <img src={mountainImage4} alt="Random Image 4" />
                         </div>
                         <div className="content">
-                            <h3>Himilaye</h3>
+                            <h3>The Rocky Mountains</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias iusto ullam repudiandae dolores.</p>
                             <span>4</span>
                         </div>
@@ -59,10 +58,10 @@ export const Header = () => {
 
                     <div className="card">
                         <div className="image">
-                            <img src={mountainImage4} alt="" />
+                            <img src={mountainImage5} alt="Random Image 5" />
                         </div>
                         <div className="content">
-                            <h3>Himilaye</h3>
+                            <h3>The Andes</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias iusto ullam repudiandae dolores.</p>
                             <span>5</span>
                         </div>
@@ -70,10 +69,10 @@ export const Header = () => {
 
                     <div className="card">
                         <div className="image">
-                            <img src={mountainImage5} alt="" />
+                            <img src={mountainImage6} alt="Random Image 6" />
                         </div>
                         <div className="content">
-                            <h3>Himilaye</h3>
+                            <h3>The Alps</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias iusto ullam repudiandae dolores.</p>
                             <span>6</span>
                         </div>
@@ -81,10 +80,10 @@ export const Header = () => {
 
                     <div className="card">
                         <div className="image">
-                            <img src={mountainImage6} alt="" />
+                            <img src={mountainImage7} alt="Random Image 7" />
                         </div>
                         <div className="content">
-                            <h3>Himilaye</h3>
+                            <h3>The Himalayas</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias iusto ullam repudiandae dolores.</p>
                             <span>7</span>
                         </div>
@@ -92,10 +91,10 @@ export const Header = () => {
 
                     <div className="card">
                         <div className="image">
-                            <img src={mountainImage8} alt="" />
+                            <img src={mountainImage8} alt="Random Image 8" />
                         </div>
                         <div className="content">
-                            <h3>Himilaye</h3>
+                            <h3>The Appalachian Mountains</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias iusto ullam repudiandae dolores.</p>
                             <span>8</span>
                         </div>
