@@ -1,0 +1,11 @@
+@media (max-width: 750px) {
+    .container {
+        width: 90%;
+    }
+    .nav .nav-section {
+        justify-content: center;
+    }
+    .header .header-section {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
