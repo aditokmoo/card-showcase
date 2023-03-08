@@ -5,6 +5,12 @@
     .nav .nav-section {
         justify-content: center;
     }
+    .header .header-section .card {
+        height: 500px;
+    }
+    .header .header-section .card .content h3 {
+        height: 60px;
+      }
     .header .header-section {
         grid-template-columns: repeat(2, 1fr);
     }
